@@ -16,7 +16,7 @@ This project demonstrates:
 ## Dataset
 The synthetic cat species dataset used in this project is available at the following link:
 
-🔗 **Google Drive Dataset:**  
+ **Google Drive Dataset:**  
 (https://drive.google.com/drive/folders/1GwNK1jusqdo7iy7w3TcQvs6DIx43jbkV?usp=sharing)
 
 ## Note
