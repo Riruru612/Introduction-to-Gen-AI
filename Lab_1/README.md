@@ -63,11 +63,6 @@ This shows the strong generalization capability of pre-trained models.
 
 ---
 
-### 6. Retrained ResNet (Transfer Learning)
-- ResNet-18 was fine-tuned on the generated cat species dataset.
-- Earlier layers were frozen and the classifier layer was trained.
-- This represents the most effective learning strategy in the project.
-
 **Accuracy achieved:**
 - Retrained ResNet Accuracy: **87%**
 
