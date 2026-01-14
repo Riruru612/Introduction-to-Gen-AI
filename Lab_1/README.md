@@ -34,7 +34,7 @@ This low accuracy highlights the difficulty of fine-grained classification when 
 ---
 
 ### 3. resnet_inference_accuracy.ipynb
-- Uses **ResNet-18 pre-trained on ImageNet**.
+- Uses **ResNet-18 pre-trained **.
 - Performs inference without training on the cat species dataset.
 - Accuracy is calculated using semantic matching.
 
@@ -83,9 +83,6 @@ Retrained ResNet Accuracy : 87%
 - Generative Model: Stable Diffusion (Hugging Face)
 - Classification Models:
   - Custom CNN (trained from scratch)
-  - ResNet-18 (ImageNet pre-trained)
-  - ResNet-18 (fine-tuned)
-
 ---
 
 ## Key Observations
@@ -94,7 +91,6 @@ Retrained ResNet Accuracy : 87%
 - Zero-shot learning performs well due to strong pre-trained representations.
 - Few-shot learning significantly improves accuracy with minimal data.
 - Continual learning introduces challenges such as partial forgetting.
-- Transfer learning with ResNet provides the best balance between accuracy and efficiency.
 
 ---
 
