@@ -108,3 +108,4 @@ Retrained ResNet Accuracy : 87%
 The dataset is synthetic and generated using a diffusion model. Accuracy values may vary depending on data quality, augmentation, and training configuration.
 
 This project is intended for academic and educational purposes.
+
