@@ -21,7 +21,7 @@ The objective is to understand the limitations of training from scratch and the 
 
 ---
 
-### 2. custom_cnn_training.ipynb (inside combined notebook)
+### 2. CustomCNN.ipynb 
 - Implements a **custom CNN with attention and residual connections**.
 - Trained from scratch on the generated dataset.
 - Serves as a **baseline model** to evaluate performance without prior knowledge.
@@ -45,8 +45,7 @@ This shows the strong generalization capability of pre-trained models.
 
 ---
 
-### 4. Few-Shot Learning (ResNet Fine-Tuning)
-- Fine-tunes only the final classification layer of ResNet.
+### 4. Few-Shot Learning
 - Uses a small number of samples per class.
 - Demonstrates rapid adaptation with limited data.
 
@@ -107,5 +106,4 @@ Retrained ResNet Accuracy : 87%
 ## Note
 The dataset is synthetic and generated using a diffusion model. Accuracy values may vary depending on data quality, augmentation, and training configuration.
 
-This project is intended for academic and educational purposes.
 
