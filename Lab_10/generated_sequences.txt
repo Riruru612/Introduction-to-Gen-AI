@@ -1,0 +1,5 @@
+LSTM Generated Text:
+machine learning helps computers learn automatically automatically
+
+Transformer Generated Text:
+deep learning models improve sequence learning efficiency
